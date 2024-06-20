@@ -191,12 +191,3 @@ This document contains a set of test cases designed to verify the functionality 
 - **Actual Result:** As expected
 - **Status:** Pass
 
-## Notes
-
-- Ensure all test data (such as passwords) is kept secure and not exposed in the final documentation.
-- Failed test cases should be revisited and addressed to ensure full functionality.
-- Regular updates to test cases may be required as new features are added or existing features are modified.
-
----
-
-*Prepared by Rifat Bin Hossain*
